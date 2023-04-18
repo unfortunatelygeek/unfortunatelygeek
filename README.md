@@ -1,7 +1,10 @@
 # Howsers, Losers!
+| :-: |
 ## Who let me have a Github?
 
-<title> ## About me </title>
+## About me 
+<hr></hr>
+
 
 
 <div id="header" align="center">
