@@ -2,13 +2,25 @@
 Who let me have a Github?
 
 ## About me 
-<hr></hr>
+My name is Aditi Rao. I like annotated books, indented code, short walks to the fridge, and oxford commas. Usually, I look like this:
 
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/118061722?v=4" height = "250" width="500"/>
+</div>
 
+But when I code, I look like this:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height = "250" width="500"/>
 </div>
+
+~~but worse~~
+
+You can find me on: 
+<div>
+  <a href = "www.linkedin.com/in/aditi-rao-8a4b1b250"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+</div>
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
