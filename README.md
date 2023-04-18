@@ -42,6 +42,7 @@ But when I code, I look like this:
 ### My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=I-ARao&theme=dark&background=000000)](https://git.io/streak-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-ARao&theme=black&background=000000&include_all_commits=true&count_private=true&layout=compact)
+<br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-ARao&theme=dark&background=000000&include_all_commits=true&count_private=true)
 
 
