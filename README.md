@@ -1,5 +1,8 @@
 # Howsers, Losers!
-##Who let me have a Github?
+## Who let me have a Github?
+
+<title> ## About me </title>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height = "250" width="500"/>
