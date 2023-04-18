@@ -17,7 +17,7 @@ But when I code, I look like this:
 ~~but worse~~
 
  ### You can find me on:
- <div" style="padding-right: 10px;">
+ <div style="padding-right: 10px;">
   <a href="https://www.linkedin.com/in/aditi-rao-8a4b1b250" style="display: inline-block; margin-left: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">  
   </a>  
