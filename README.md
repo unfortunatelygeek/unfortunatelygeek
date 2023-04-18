@@ -5,7 +5,7 @@ Who let me have a Github?
 My name is Aditi Rao. I like annotated books, indented code, short walks to the fridge, and oxford commas. Usually, I look like this:
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/118061722?v=4" height = "250" width="500"/>
+  <img src="https://avatars.githubusercontent.com/u/118061722?v=4" height = "250" width="200"/>
 </div>
 
 But when I code, I look like this:
@@ -18,7 +18,7 @@ But when I code, I look like this:
 
 You can find me on: 
 <div>
-  <a href = "www.linkedin.com/in/aditi-rao-8a4b1b250"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+  <a href = "https://www.linkedin.com/in/aditi-rao-8a4b1b250"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </div>
 
 
