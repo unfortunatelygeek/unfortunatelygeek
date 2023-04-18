@@ -5,7 +5,7 @@ Who let me have a Github?
 My name is Aditi Rao. I like annotated books, indented code, short walks to the fridge, and oxford commas. Usually, I look like this:
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/118061722?v=4" height = "250" width="250"/>
+  <img src="https://media.tenor.com/v3Kzb5rlFdgAAAAj/mochi-cute.gif" height = "250" width="250"/>
 </div>
 
 But when I code, I look like this:
