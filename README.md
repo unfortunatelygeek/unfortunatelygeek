@@ -20,7 +20,7 @@ But when I code, I look like this:
  <div>
   <a href="https://www.linkedin.com/in/aditi-rao-8a4b1b250" style="display: inline-block; margin-left: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">  
-  </a>  
+  </a>  <t></t>
   <a href="https://codeforces.com/profile/unfortunatelygeek" style="display: inline-block; margin-left: 5px;">
     <img src="https://github.com/npanuhin/Artwork/blob/master/SVG/Codeforces/Codeforces.colored.svg" title="Codeforces" alt="Codeforces" width="40" height="40">
   </a>  
