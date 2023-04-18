@@ -1,6 +1,5 @@
 # Howsers, Losers!
-| :-: |
-## Who let me have a Github?
+Who let me have a Github?
 
 ## About me 
 <hr></hr>
