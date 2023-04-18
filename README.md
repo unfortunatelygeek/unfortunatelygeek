@@ -16,9 +16,9 @@ But when I code, I look like this:
 
 ~~but worse~~
 
-You can find me on: 
+You can find me on: &nsbr
 <div>
-  <a href = "https://www.linkedin.com/in/aditi-rao-8a4b1b250"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+  <a href = "https://www.linkedin.com/in/aditi-rao-8a4b1b250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </div>
 
 
