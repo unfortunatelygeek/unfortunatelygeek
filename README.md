@@ -17,15 +17,19 @@ But when I code, I look like this:
 ~~but worse~~
 
  ### You can find me on:
+ <br></br>
+ <div>
   <a href="https://www.linkedin.com/in/aditi-rao-8a4b1b250" style="display: inline-block; margin-left: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="https://codeforces.com/profile/unfortunatelygeek" style="display: inline-block; margin-left: 5px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP45tFPI4BpgvEjXB4mS3-sMTinuIrM8cB4vl17lUsPQ&s" title="Codeforces" alt="Codeforces" width="40" height="40">
   </a>
+ </div>
 
 
-
+### I code in:
+<br></br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
