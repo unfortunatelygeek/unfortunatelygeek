@@ -1,20 +1,5 @@
-# A Work in Progress (Indefinitely)
-Who let me have a Github?
-
 ## About me 
 My name is Aditi Rao. I like annotated books, indented code, short walks to the fridge, and oxford commas. Usually, I look like this:
-
-<div id="header" align="center">
-  <img src="https://media.tenor.com/v3Kzb5rlFdgAAAAj/mochi-cute.gif" height = "250" width="250"/>
-</div>
-
-But when I code, I look like this:
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height = "250" width="500"/>
-</div>
-
-~~but worse~~
 
  ### You can find me on:
  <div>
