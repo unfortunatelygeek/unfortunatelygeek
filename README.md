@@ -1,7 +1,7 @@
 ## About me 
-My name is Aditi Rao. I like annotated books, indented code, short walks to the fridge, and oxford commas. Usually, I look like this:
+My name is Aditi Rao. I like annotated books, indented code, short walks to the fridge, and oxford commas.
 
- ### You can find me on:
+### You can find me on:
  <div>
   <a href="https://www.linkedin.com/in/aditi-rao-8a4b1b250" style="display: inline-block; margin-left: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">  
