@@ -23,6 +23,7 @@ Hi, my name is Aditi Rao. I like annotated books, indented code, short walks to 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+  <img src = "https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_verilog.svg" title="Verilog" alt="Verilog" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
 ### My Stats:
