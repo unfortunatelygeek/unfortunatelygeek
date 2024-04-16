@@ -26,10 +26,4 @@ Hi, my name is Aditi Rao. I like annotated books, indented code, short walks to 
   <img src = "https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_verilog.svg" title="Verilog" alt="Verilog" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
-### My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=I-ARao&theme=dark&background=000000)](https://git.io/streak-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-ARao&theme=dark&background=000000&include_all_commits=true&count_private=true)
-
 
