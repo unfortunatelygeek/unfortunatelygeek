@@ -7,10 +7,6 @@ Hi, my name is Aditi Rao. I like annotated books, indented code, short walks to 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">  
   </a>  
   &nbsp;&nbsp;
-  <t></t>
-  <a href="https://codeforces.com/profile/unfortunatelygeek" style="display: inline-block; margin-left: 10px;">
-    <img src="https://github.com/npanuhin/Artwork/blob/master/SVG/Codeforces/Codeforces.colored.svg" title="Codeforces" alt="Codeforces" width="40" height="40">
-  </a>  
  </div>
  
 
