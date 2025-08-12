@@ -1,5 +1,5 @@
 ## About me 
-Hi, my name is Aditi Rao. I like annotated books, indented code, short walks to the fridge, and oxford commas.
+Hi! I'm Aditi. I like annotated books, indented code, short walks to the fridge, and oxford commas.
  
 
 
